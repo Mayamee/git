@@ -1,3 +1,4 @@
 *.file
 01
 **/help
+**/node_modules
