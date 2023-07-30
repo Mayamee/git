@@ -1,4 +1,6 @@
-document.addEventListener("DOMContentLoaded", () => {
-  const elem = document.querySelector("#message");
-  elem.innerHTML = "Hello, world!";
-});
+window.helloGitty = function (name) {
+  const container = document.querySelector("#message");
+  const elem = document.createElement("div");
+  elem.innerHTML = `Hello, ${name}!`;
+  container.appendChild(elem);
+};
