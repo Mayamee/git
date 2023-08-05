@@ -1,0 +1,16 @@
+# name of 100 peoples with surname
+person:
+  - name: JOHN
+    surname: DOE
+  - name: JANE
+    surname: DOE
+  - name: JAMES
+    surname: SMITH
+  - name: MARY
+    surname: SMITH
+  - name: ROBERT
+    surname: JOHNSON
+  - name: PATRICIA
+    surname: WILLIAMS
+  - name: MICHAEL
+    surname: BROWN
