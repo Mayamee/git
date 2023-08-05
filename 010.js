@@ -12,9 +12,11 @@ console.log("asdasd");
 console.log("asdasd");
 console.log("asdasd");
 
-console.log('asdasdasovjfovv')
-console.log('asdasdasovjfovv')
-console.log('asdasdasovjfovv')
+console.log("bug");
+
+console.log("asdasdasovjfovv");
+console.log("asdasdasovjfovv");
+console.log("asdasdasovjfovv");
 
 console.log("asdasd");
 console.log("asdasd");
