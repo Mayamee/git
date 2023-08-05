@@ -1,1 +1,2 @@
-console.log('wow')
+console.log("wow");
+console.log("lol");
